@@ -1,0 +1,67 @@
+.navbar {
+    background-color: #303030;
+    color: #ffffff
+    }
+
+.nav .h4 {
+    color: #93fff4;
+    }
+
+.navbar-nav > .active > a, .navbar-nav > .visited > a {
+        color: #ffffff !important;
+        background-color:#93fff4 !important;
+    }
+
+.navbar-nav > .active > a > h4 {
+    color: #303030 !important;
+    }
+
+.btn-file {  
+    background-color:#303030; 
+    border-color: #303030; 
+    color:#ffffff; 
+    }
+
+.btn-file:hover {  
+        background-color:#ff9640; 
+        border-color: #ff9640;
+        color:#ffffff; 
+       }
+
+.progress-bar {
+     background-color:#93fff4;
+     color: #303030;
+    }
+.input {
+    background-color:#93fff4;  
+    }
+
+.js-irs-0 .irs-single, .js-irs-0 .irs-bar-edge, .js-irs-0 .irs-bar {
+        background: #93fff4;
+        border-color: #93fff4;
+        color: #303030;
+    }
+
+.js-irs-1 .irs-single, .js-irs-1 .irs-bar-edge, .js-irs-1 .irs-bar {
+        background: #93fff4;
+        border-color: #93fff4;
+        color: #303030;
+    }
+
+.js-irs-2 .irs-single, .js-irs-2 .irs-bar-edge, .js-irs-2 .irs-bar {
+        background: #93fff4;
+        border-color: #93fff4;
+        color: #303030;
+    }
+
+.aviso {
+        color: #ff7400;
+    }
+
+.actualizados {
+    color: #49B573;
+}
+
+.texto {
+    font-size: large;
+}
