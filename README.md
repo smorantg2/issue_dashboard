@@ -13,7 +13,7 @@ The first two sliders on the left adjust the weight (%) given to "external" and 
 The third slider defines how many issues are to be shown in the graph.
 
 <p align="center">
-  <img align="center" src='./gif/Picture1.png'> 
+  <img align="center" src='./gif/Picture1.png' width = 793 height = 248> 
 </p>
 
 The second part allows the user to study a specific issue in depth. The radar or spider graph shows the scores of the different areas that form the "external" score. 
@@ -25,7 +25,7 @@ The panel on the lefs allows the user to adjust the weights of the different are
 The last drop-down list below shows a description of the selected topic.
 
 <p align="center">
-  <img align="center" src='./gif/Picture2.jpg'> 
+  <img align="center" src='./gif/Picture2.jpg' width = 618 height = 292 > 
 </p>
 
 ## Demonstration
